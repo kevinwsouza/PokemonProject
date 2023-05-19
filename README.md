@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-Código fonte do aplicativo responsável pelo gerenciamento de cartões GreenCard e informações cadastrais. Dentre algumas das funcionalidades disponíveis, estão:
+Código fonte do aplicativo responsável. Dentre algumas das funcionalidades disponíveis, estão:
 - Visualização dos pokemons em lista com nome e foto na Home
 - Tela de detalhes do respectivo pokemon selecionado na Home com id, habilidades, tipo, altura e peso
 - Navegação entre as telas para voltar e escolher novos pokemons
